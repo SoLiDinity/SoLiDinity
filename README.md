@@ -8,4 +8,18 @@
                                                           ################   ######                           
                                                                      #####   ######                           
                                                                      #####                                    
-                                                                    ##                                                      
+                                                                    ##
+
+# Welcome!
+
+<br/>
+
+### Languages and Tools:
+
+<br />
+<br />
+
+### Softwares:
+
+<br />
+                                          
