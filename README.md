@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/SoLiDinity/SoLiDinity/blob/main/images/WELKOMEN.png" />                    
+<img src="https://github.com/SoLiDinity/SoLiDinity/blob/main/images/WELKOMEN.png" />                    
 
 # Welcome!
 
