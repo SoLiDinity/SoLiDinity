@@ -1,6 +1,6 @@
 <img src="https://github.com/SoLiDinity/SoLiDinity/blob/main/images/WELKOMEN.png" />                    
 
-# Welcome!
+# Welcome! 👋
 
 <br/>
 
