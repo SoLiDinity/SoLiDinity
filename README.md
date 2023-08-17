@@ -20,11 +20,6 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=SoLiDinity&theme=dark&border_radius=20&mode=weekly&fire=C3EB00&ring=42F404&currStreakLabel=C3EB00&sideLabels=42F404">
 </a> 
 
-### 🏆 GitHub Trophy
-
-<img height="80px" src="https://github-profile-trophy.vercel.app/?username=SoLiDinity&theme=onedark&column=10">
-<br>
-
 # 💻 Projects
 
 
