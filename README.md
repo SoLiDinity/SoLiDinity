@@ -22,7 +22,7 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
 
 ### 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=SoLiDinity&theme=onedark&column=10">
+<img height="80px" src="https://github-profile-trophy.vercel.app/?username=SoLiDinity&theme=onedark&column=10">
 <br>
 
 # 💻 Projects
@@ -30,9 +30,9 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
 
 # 🧰 Stuff I Used
 <h3 align="center">Language & Tools</h3>
-<img width="100%" height="50em" src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql,wordpress,flutter">
+<img width="100%" height="50px" src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql,wordpress,flutter">
 
 <h3 align="center">Softwares</h3>
-<img width="100%" height="50em" src="https://skillicons.dev/icons?i=vscode,figma,ai,pr,ae">
+<img width="100%" height="50px" src="https://skillicons.dev/icons?i=vscode,figma,ai,pr,ae">
 <br>
                                           
