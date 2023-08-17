@@ -1,6 +1,7 @@
 <img src="https://github.com/SoLiDinity/SoLiDinity/blob/main/images/WELKOMEN.png" />                    
 
-<h2 align="center">👋 Welcome to My Profile!</h2>
+<h2 align="center">👋 Welcome to My Profile!</h2>  
+
 Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I specialise in Web Development, mainly HTML, CSS and JavaScript but I also deeply passionate about Photography, Cinematography and Graphic Design. On my way to learn **Imperfection** to reach **Perfection** ➡️
 <br>
 <br>
