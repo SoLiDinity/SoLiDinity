@@ -28,6 +28,6 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
 <img width="100%" height="50px" src="https://skillicons.dev/icons?i=html,css,js,php,dart,mysql,wordpress,flutter">
 
 <h3 align="center">Softwares</h3>
-<img width="100%" height="50px" src="https://skillicons.dev/icons?i=vscode,figma,ai,pr,ae">
+<img width="100%" height="40px" src="https://skillicons.dev/icons?i=vscode,figma,ai,pr,ae">
 <br>
                                           
