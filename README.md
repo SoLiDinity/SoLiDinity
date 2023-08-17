@@ -12,7 +12,7 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
 - 🤝 Currently working at [ClickSolusi](https://clicksolusi.web.id) as Lead Designer
 
 ### 🌐 Find me!
-<a target="_blank" href="https://www.instagram.com/leonardo.djp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white){:target="_blank"}
 </details>
 
 ### ⚡ GitHub Stats
