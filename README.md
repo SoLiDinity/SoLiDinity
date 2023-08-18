@@ -9,12 +9,13 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
 
 - 🎓 Informatics Engineering at University of Palangka Raya
 - 👴 Currently 20 years old 
-- 🤝 Currently working at [ClickSolusi](https://clicksolusi.web.id) as Lead Designer
+- 🤝 Currently learning *everything*
+
+</details>
 
 ### 🌐 Find me!
 <a href="https://www.instagram.com/leonardo.djp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://codepen.io/SoLiDinity" target="_blank"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
-</details>
 
 ### ⚡ GitHub Stats
 <a href="https://github.com/SoLiDinity">
