@@ -8,8 +8,8 @@ Hello 👋, I'm **SoLiDinity/Leo** an enthusiastic web and mobile developer. I s
   <summary>👨 A bit more about me</summary>
 
 - 🎓 Informatics Engineering at University of Palangka Raya
-- 👴 Currently 21 years old 
-- 🤝 Currently learning *algorithm, data structure, machine learning and AI*
+- 👴 Currently 22 years old 
+- 🤝 Currently learning *machine learning/AI & multiplatform software development*
 
 </details>
 
